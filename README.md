@@ -53,4 +53,5 @@ updtare doctor profile
     - adding routing (browserrouter) support for pages
     - created home about contact doctors pages
     - created routes in app component with speciality route of doctors 
-- 
+- started with creating components
+    - Navbar created

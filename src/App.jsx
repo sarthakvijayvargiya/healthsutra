@@ -9,11 +9,13 @@ import {
   MyAppointment,
   MyProfile,
 } from "./pages";
+import { NavBar } from "./components";
 
 function App() {
   return (
     <>
-      <div>
+      <div className="mx-4 sm:mx-[10%]">
+        <NavBar />
         <Routes>
           <Route path="/" element={<Home />}></Route>
           <Route path="/about" element={<About />}></Route>
