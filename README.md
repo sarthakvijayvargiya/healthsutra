@@ -54,4 +54,5 @@ updtare doctor profile
     - created home about contact doctors pages
     - created routes in app component with speciality route of doctors 
 - started with creating components
-    - Navbar created
+    - Navbar created & profile and dropdown is created
+    - Created Header section & book appointment button in it
