@@ -56,3 +56,4 @@ updtare doctor profile
 - started with creating components
     - Navbar created & profile and dropdown is created
     - Created Header section & book appointment button in it
+    - Created top doctors section

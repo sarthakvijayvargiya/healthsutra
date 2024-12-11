@@ -1,4 +1,5 @@
 import NavBar from "./nav-bar";
 import Header from "./header";
 import SpecialityMenu from "./speciality-menu";
-export { NavBar,Header,SpecialityMenu };
+import TopDoctors from "./top-doctors";
+export { NavBar,Header,SpecialityMenu,TopDoctors };
