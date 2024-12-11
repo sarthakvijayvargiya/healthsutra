@@ -1,4 +1,4 @@
-import { Header, SpecialityMenu, TopDoctors } from "../components";
+import { Banner, Header, SpecialityMenu, TopDoctors } from "../components";
 
 const Home = () => {
   return (
@@ -6,6 +6,7 @@ const Home = () => {
       <Header />
       <SpecialityMenu />
       <TopDoctors />
+      <Banner />
     </div>
   );
 };
