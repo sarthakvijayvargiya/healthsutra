@@ -43,6 +43,7 @@ updtare doctor profile
 - axios 
 - toastify
 - react-router-dom
+- contextAPI
 
 
 <!-- flow of project -->
@@ -57,3 +58,10 @@ updtare doctor profile
     - Navbar created & profile and dropdown is created
     - Created Header section & book appointment button in it
     - Created top doctors section
+
+<!-- Unique / Concept Learning -->
+-   useNavigate -- to navigate() to different url
+-   we can configure tailwind config file check it
+-   Navlink -- to use for active unactive usage
+-   use navigate(/doc/${id}) -- to reach to id specific data
+-   Added Scroll-smooth in html file (dont know why added in html file)
