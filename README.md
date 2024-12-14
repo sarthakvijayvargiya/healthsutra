@@ -58,6 +58,8 @@ updtare doctor profile
     - Navbar created & profile and dropdown is created
     - Created Header section & book appointment button in it
     - Created top doctors section
+    - Created remaing section of Home Page
+    - Created top doctors for doctors page
 
 <!-- Unique / Concept Learning -->
 -   useNavigate -- to navigate() to different url
@@ -65,3 +67,9 @@ updtare doctor profile
 -   Navlink -- to use for active unactive usage
 -   use navigate(/doc/${id}) -- to reach to id specific data
 -   Added Scroll-smooth in html file (dont know why added in html file)
+-   To Get Parameter from url we can use useparams
+-   
+
+<!-- Error And Challenges -->
+- I Copied top doctors display section to here onClick it redirected to doctors intead of appointment
+- Grid-col-auto from grid-cols-auto     
