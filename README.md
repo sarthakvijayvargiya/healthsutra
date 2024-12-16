@@ -61,6 +61,7 @@ updtare doctor profile
     - Created remaing section of Home Page
     - Created top doctors for doctors page and doctor filter section
     - Created Appointment page , with Date of 7 days and different times
+    - Created about page
 
 <!-- Unique / Concept Learning -->
 -   useNavigate -- to navigate() to different url
