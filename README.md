@@ -63,7 +63,8 @@ updtare doctor profile
     - Created remaing section of Home Page
     - Created top doctors for doctors page and doctor filter section
     - Created Appointment page , with Date of 7 days and different times
-    - Created about page
+    - Created about page , contact page
+    - created login page
 
 <!-- Unique / Concept Learning -->
 -   useNavigate -- to navigate() to different url
@@ -79,3 +80,5 @@ updtare doctor profile
 - I Copied top doctors display section to here onClick it redirected to doctors intead of appointment
 - Grid-col-auto from grid-cols-auto
 - Date Appointment challenges -- create upcomming 7 days display , then appointment time is max 9, first understood all date method and class , need to set time like right now is 10 then set time for 11 and if minutes is 30+ then set minu + 30 --> which is 11:30 other wise 11 and if date is not current date then set hour from 10 onwards uptill 9 , took time slots as array ,, why used to localetimestring , edge case dates should next 7 days , time should not be visible beofre like on today its 11 then before time should not be visible  ----- **https://chatgpt.com/c/675f282e-f200-8004-9d51-68d431040ca0**
+- creation of login page which is convertible
+- created my -profile page --- Challenge
